@@ -1,5 +1,5 @@
 # shopee-crawler
-The DAGs is to crawl the information of the shops in the Shopee mall, [here](https://elixirschool.com/en/lessons/basics/basics/). This DAGs will return the list of below data into .xlsx file.
+The DAGs is to crawl the information of the shops in the Shopee mall, [here](https://elixirschool.com/en/lessons/basics/basics/). This DAG will return the list of below data into .xlsx file.
 - Shop name
 - Number of products
 - Following
