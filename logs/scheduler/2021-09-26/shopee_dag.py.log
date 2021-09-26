@@ -257,3 +257,10 @@
 [2021-09-26 12:05:18,697] {logging_mixin.py:109} INFO - [2021-09-26 12:05:18,697] {dag.py:1834} INFO - Sync 1 DAGs
 [2021-09-26 12:05:18,708] {logging_mixin.py:109} INFO - [2021-09-26 12:05:18,708] {dag.py:2287} INFO - Setting next_dagrun for shopee_dag to 2021-09-26 00:00:00+00:00
 [2021-09-26 12:05:18,716] {processor.py:170} INFO - Processing /opt/airflow/dags/shopee_dag.py took 0.602 seconds
+[2021-09-26 12:05:49,488] {processor.py:162} INFO - Started process (PID=6376) to work on /opt/airflow/dags/shopee_dag.py
+[2021-09-26 12:05:49,490] {processor.py:613} INFO - Processing file /opt/airflow/dags/shopee_dag.py for tasks to queue
+[2021-09-26 12:05:49,492] {logging_mixin.py:109} INFO - [2021-09-26 12:05:49,492] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/shopee_dag.py
+[2021-09-26 12:05:50,026] {processor.py:623} INFO - DAG(s) dict_keys(['shopee_dag']) retrieved from /opt/airflow/dags/shopee_dag.py
+[2021-09-26 12:05:50,051] {logging_mixin.py:109} INFO - [2021-09-26 12:05:50,051] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-26 12:05:50,063] {logging_mixin.py:109} INFO - [2021-09-26 12:05:50,062] {dag.py:2287} INFO - Setting next_dagrun for shopee_dag to 2021-09-26 00:00:00+00:00
+[2021-09-26 12:05:50,070] {processor.py:170} INFO - Processing /opt/airflow/dags/shopee_dag.py took 0.589 seconds
